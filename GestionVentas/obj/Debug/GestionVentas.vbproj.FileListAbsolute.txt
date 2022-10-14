@@ -1,0 +1,83 @@
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.exe.config
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.exe
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.pdb
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.xml
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.dll
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.pdb
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.xml
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbprojResolveAssemblyReference.cache
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmAlmacen.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmClienteProveedor.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmEstado.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmFormasPago.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmMoneda.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmPais.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmSucursales.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmTipoCambio.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmTipoMovimiento.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmUnidadMedida.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmPrincipal.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.Resources.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbproj.GenerateResource.Cache
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.exe
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.xml
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.pdb
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmClienteProveedorRegistro.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmBuscarCliente.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmProductos.resources
+E:\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.exe.config
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.exe
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.xml
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.pdb
+E:\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.exe
+E:\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.pdb
+E:\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.xml
+E:\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.dll
+E:\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.pdb
+E:\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.xml
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbprojResolveAssemblyReference.cache
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmAlmacen.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmBuscarCliente.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmClienteProveedor.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmClienteProveedorRegistro.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmEstado.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmFormasPago.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmMoneda.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmPais.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmProductos.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmSucursales.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmTipoCambio.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmTipoMovimiento.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmUnidadMedida.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmPrincipal.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.Resources.resources
+E:\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbproj.GenerateResource.Cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbprojAssemblyReference.cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmAlmacen.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmBuscarCliente.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmClienteProveedor.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmClienteProveedorRegistro.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmEstado.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmFormasPago.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmMoneda.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmPais.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmProductos.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmSucursales.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmTipoCambio.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmTipoMovimiento.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmUnidadMedida.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.frmPrincipal.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbproj.GenerateResource.cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.exe
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.xml
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.pdb
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.exe.config
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.exe
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.pdb
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\GestionVentas.xml
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.dll
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.pdb
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\bin\Debug\Capa_Datos.xml
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.Resources.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbproj.CoreCompileInputs.cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\GestionVentas\obj\Debug\GestionVentas.vbproj.CopyComplete

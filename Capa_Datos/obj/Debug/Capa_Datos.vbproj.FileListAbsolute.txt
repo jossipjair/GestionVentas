@@ -1,0 +1,26 @@
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.xml
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.xml
+E:\PROYECTOS\pryGestionVentas\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.pdb
+E:\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.xml
+E:\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+E:\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.Cache
+E:\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.xml
+E:\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\bin\Debug\Capa_Datos.xml
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.vbprojAssemblyReference.cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.vbproj.CoreCompileInputs.cache
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.xml
+D:\PROYECTOS PERSONALES\pryGestionVentas\Capa_Datos\obj\Debug\Capa_Datos.pdb
